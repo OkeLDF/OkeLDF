@@ -1,3 +1,5 @@
+# Hello, I'm Otávio!
+🎓 I'm a Brazilian Software Engineering student
 ---
 <br>
 <div align="center">
