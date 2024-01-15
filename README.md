@@ -1,5 +1,5 @@
-# Hello, I'm Otávio!
-🎓 I'm a Brazilian Software Engineering student
+<h1 align="center">Hello, I'm Otávio!</h1>
+<p>🎓 I'm a Brazilian Software Engineering student</p>
 ---
 <br>
 <div align="center">
