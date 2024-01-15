@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Otávio!</h1>
 <p>🎓 I'm a Brazilian Software Engineering student</p>
----
+<hr>
 <br>
 <div align="center">
   <a href="https://git.io/streak-stats">
