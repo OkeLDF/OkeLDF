@@ -26,7 +26,7 @@
     </td>
   </tr>
 </table>
-
+<br>
 <div align="center">
-  <td><img width="500" src="honest_work.jpg" alt="it ain't much, but it's honest work"></td>
+  <td><img width="300" src="honest_work.jpg" alt="it ain't much, but it's honest work"></td>
 </div>
