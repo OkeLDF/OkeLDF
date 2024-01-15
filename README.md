@@ -10,7 +10,9 @@
 <h3 align="center">My Stats:</h3>
 <br>
 
-<table style="padding:50px">
+<!-- (dentro de <table>) style="border-spacing:50px; border-color:#0d1117; border-style:hidden" -->
+
+<table>
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
