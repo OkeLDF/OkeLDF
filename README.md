@@ -1,9 +1,14 @@
 <h1 align="center">Hello, I'm Otávio!</h1>
+
 <p>🎓 I'm a Brazilian Software Engineering student</p>
+
 <br>
+
 <hr>
+
 <br>
 <br>
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=OkeLDF&theme=radical" alt="GitHub Streak" />
