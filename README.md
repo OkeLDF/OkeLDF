@@ -7,7 +7,7 @@
 <hr>
 
 <br>
-<h3 align="center">My Stats:</h3>
+<h3 align="center">🔥 My Stats:</h3>
 <br>
 
 <!-- (dentro de <table>) style="border-spacing:50px; border-color:#0d1117; border-style:hidden" -->
