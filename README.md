@@ -7,6 +7,7 @@
 <hr>
 
 <br>
+<h3 align="center">My Stats:</h3>
 <br>
 
 <div align="center">
