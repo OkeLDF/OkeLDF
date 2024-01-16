@@ -4,8 +4,9 @@
 
 <br>
 <hr>
-
-<h3>🛠️ My skills:</h3>
+<br>
+<h3 align="center">🛠️ My skills:</h3>
+<br>
 
 <div align="center">
   <a href="https://skillicons.dev">
