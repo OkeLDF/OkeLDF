@@ -4,7 +4,6 @@
 
 <br>
 <hr>
-<br>
 <h3 align="center">🛠️ My skills:</h3>
 <br>
 
@@ -25,8 +24,6 @@
 <br>
 
 <hr>
-
-<br>
 <h3 align="center">🔥 My Stats:</h3>
 <br>
 
