@@ -2,13 +2,19 @@
 
 <p>🎓 I'm a Brazilian Software Engineering student</p>
 
+<br>
+<hr>
+
 <h3>🛠️ My skills:</h3>
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,arduino,java,html,css,latex" />
   </a>
 </div>
+
 <br>
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,git,discord,vscode" />
