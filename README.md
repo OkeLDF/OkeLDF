@@ -1,6 +1,7 @@
 <h1 align="center">Hello, I'm Otávio!</h1>
 
 <p>🎓 I'm a Brazilian Software Engineering student</p>
+<p>🤖 I am currently studying Machine Learning</p>
 
 <br>
 <hr>
