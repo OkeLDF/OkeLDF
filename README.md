@@ -35,9 +35,10 @@
 <table>
   <tr>
     <td>
-      <a href="https://git.io/streak-stats">
+      [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+      <!--a href="https://git.io/streak-stats">
         <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=OkeLDF&theme=radical"/>
-      </a>
+      </a-->
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
