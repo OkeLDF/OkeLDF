@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,git,discord,vscode,sqlite,tkinter" />
+    <img src="https://skillicons.dev/icons?i=anaconda,git,discord,vscode,sqlite" />
   </a>
 </div>
 
