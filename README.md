@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,html,css,javascript,java,arduino,latex" />
+    <img src="https://skillicons.dev/icons?i=c,py,java,arduino,latex" />
   </a>
 </div>
 
@@ -17,7 +17,15 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,git,discord,vscode,sqlite" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind,bootstrap,spring" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,sqlite,postgres" />
   </a>
 </div>
 
