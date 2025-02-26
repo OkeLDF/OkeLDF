@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,sqlite,postgres" />
+    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,keras,sqlite,postgres" />
   </a>
 </div>
 
