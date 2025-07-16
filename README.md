@@ -3,9 +3,9 @@
 <p>🎓 I'm a Brazilian Software Engineering student 💻</p>
 <p>I'm currently studying:</p>
 <ul>
-  <li>🤖 Machine Learning 🧠</li>
-  <li>💻 Frontend with React ⚛️</li>
-  <li>🛢️ Backend with Python 🐍</li>
+  <li>🤖 Machine Learning with Scikit-Learn and TensorFlow 🧠</li>
+  <li>💻 Frontend with JS / React ⚛️</li>
+  <li>🛢️ Backend with Python / Flask 🐍</li>
 </ul>
 
 <br>
